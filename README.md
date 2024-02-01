@@ -71,6 +71,4 @@ Project Structure:
 
 Create the Project folder which contains files as shown below:
 
-testcase
 
-testcase2
